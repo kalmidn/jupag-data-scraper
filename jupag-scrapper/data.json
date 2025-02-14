@@ -1,0 +1,32 @@
+[
+  {
+    "feedId": "BTCUSD",
+    "price": 98054.63,
+    "timestamp": 1739555137,
+    "dateTimeUTC": "2025-02-14 17:45:37"
+  },
+  {
+    "feedId": "ETHUSD",
+    "price": 2758.6552460000003,
+    "timestamp": 1739555137,
+    "dateTimeUTC": "2025-02-14 17:45:37"
+  },
+  {
+    "feedId": "SOLUSD",
+    "price": 204.01,
+    "timestamp": 1739555137,
+    "dateTimeUTC": "2025-02-14 17:45:37"
+  },
+  {
+    "feedId": "USDCUSD",
+    "price": 0.99994795,
+    "timestamp": 1739555137,
+    "dateTimeUTC": "2025-02-14 17:45:37"
+  },
+  {
+    "feedId": "USDTUSD",
+    "price": 1.000095,
+    "timestamp": 1739555137,
+    "dateTimeUTC": "2025-02-14 17:45:37"
+  }
+]
